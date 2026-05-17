@@ -1,0 +1,38 @@
+[FAKE 1]
+Work from home opportunity! Earn ₹5000 daily with no experience. Limited slots available. Pay a registration fee to get started immediately. Contact via WhatsApp.
+
+[FAKE 2]
+Urgent hiring for part-time data entry jobs. No skills required. Weekly payment guaranteed. Candidates must pay ₹999 as a joining fee.
+
+[FAKE 3]
+Internship available for students. No interview required. Instant selection. A refundable deposit of ₹1500 is required before onboarding.
+
+[FAKE 4]
+International company hiring remote workers. High salary with flexible hours. Applicants must pay processing charges and submit personal documents.
+
+[FAKE 5]
+Earn money online by completing simple tasks. No experience needed. Limited time offer. Pay to unlock job access.
+
+[REAL 1]
+Software Engineer position requiring knowledge of Python, Java, and REST APIs. Candidates should have strong problem-solving skills.
+
+[REAL 2]
+Summer internship opportunity for Computer Science students. Work on machine learning projects under mentorship. No fees required.
+
+[REAL 3]
+TCS is hiring Data Analysts with experience in SQL, Excel, and Power BI. Apply through the official company website.
+
+[REAL 4]
+We are looking for a Frontend Developer with experience in React.js and modern JavaScript frameworks.
+
+[REAL 5]
+Business Analyst role for fresh graduates. Training will be provided. Strong communication skills required.
+
+[EDGE 1]
+Earn money online with flexible hours. No experience needed. Start immediately.
+
+[EDGE 2]
+Internship with stipend available. Candidates must complete a paid training program before joining.
+
+[EDGE 3]
+Part-time remote job with flexible schedule. Contact now for more details.

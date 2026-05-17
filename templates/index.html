@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Fake Job Detector</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+<div class="container">
+    <h1>🔍 Fake Job / Internship Detector</h1>
+
+    <form method="POST">
+        <textarea name="job_desc" placeholder="Paste job description here..." required></textarea>
+        <button type="submit">Analyze</button>
+    </form>
+
+    {% if result %}
+    <div class="result-box">
+        <h2>{{ result }}</h2>
+        <p><strong>Confidence:</strong> {{ confidence }}%</p>
+        <p><strong>Risk Level:</strong> {{ risk }}</p>
+
+        <hr>
+
+        <h3>Model Insights</h3>
+        <p>Logistic Regression Score: {{ (lr_prob * 100) | round(2) }}%</p>
+        <p>Naive Bayes Score: {{ (nb_prob * 100) | round(2) }}%</p>
+    </div>
+    {% endif %}
+</div>
+
+</body>
+</html>
